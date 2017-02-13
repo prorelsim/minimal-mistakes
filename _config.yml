@@ -9,10 +9,10 @@
 locale                   : "en-US"
 title                    : "Promotion & Relegation Sdavdvsadavsvd  imulation."
 title_separator          : "-"
-name                     : "Promotion & Relegation Simulation"
-description              : "Developing a computer simulation of US soccer with a promotion & relegation pyramid structure."
+name                     : "Promotion & Relegatdsfasfion Simulation"
+description              : "Developing a computer simulsdfasdfasation of US soccer with a promotion & relegation pyramid structure."
 url                      : "https://prorelsim.github.io"
-baseurl                  : "/prorelsim"
+baseurl                  : #
 repository               : "prorelsim/prorelsim.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "P roR elS im"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Promotion & Relegations Simulation For US Soccer."
+  bio              : "Promotion & Relegasafd sasdasdtions Simulation For US Soccer."
   location         : "London, UK"
   email            :
   uri              :
