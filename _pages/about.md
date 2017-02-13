@@ -1,4 +1,7 @@
-# [](#header-1)Promotion & Relegation Simulation For US Soccer.
+---
+layout: home
+author_profile: true
+---
 
 This project aims to create a statistical model of a US soccer promotion & relegation pyramid structure. 
 
