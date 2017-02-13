@@ -1,8 +1,3 @@
----
-layout: home
-author_profile: true
----
-
 # [](#header-1)Promotion & Relegation Simulation For US Soccer.
 
 This project aims to create a statistical model of a US soccer promotion & relegation pyramid structure. 
@@ -150,7 +145,7 @@ The MLS would be the division one, the NASL, division two. After that everything
 Only worry is that because this is division three, clubs may feel aggrieved that they are not starting higher in the pyramid. But I guess they will be ok with it because they can prove everyone wrong over the next two seasons. Maybe all clubs get an equal share of league income/prize money for the first four years to smooth things over as the promotion & relegation system settles itself. 
 
 #### [](#header-4)Co-exist with big US sports and college > pro route 
-This is to do with attracting good athletes to a career in soccer. Also good sports coaches. I think it's reasonable to think that soccer could provide a fallback option to people who fail to make it in other sports. But the starting salary would have to be much higher. For comparison a division two player in the UK can earn £5,000UKP ($6,000USD) per week, £250,000UKP($300,000USD) per year.
+This is to do with attracting good athletes to a career in soccer. Also good sports coaches. I think it's reasonable to think that soccer could provide a fallback option to people who fail to make it in other sports. But the starting salary would have to be much higher. For comparison a division two player in the UK can earn Â£5,000UKP ($6,000USD) per week, Â£250,000UKP($300,000USD) per year.
 
 #### [](#header-4)How you can help?
 If you have information on national, state or local level soccer in the US, please get in touch. The simulation will be continually refined and updated to make it as accurate as possible.
