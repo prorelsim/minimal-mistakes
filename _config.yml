@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Promotion & Relegation Simulation For US Soccer."
+title                    : "Promotion & Relegation Simulation."
 title_separator          : "-"
-name                     : "ProRelSim"
+name                     : "Promotion & Relegation Simulation"
 description              : "Developing a computer simulation of US soccer with a promotion & relegation pyramid structure."
 url                      : "https://prorelsim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
