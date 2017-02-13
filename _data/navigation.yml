@@ -3,8 +3,8 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Blog"
-    url: https://prorelsim.github.io/prorelsim/_pages/blog.md
+    url: https://prorelsim.github.io/_pages/blog
   - title: "About"
-    url: https://prorelsim.github.io/about.md
+    url: https://prorelsim.github.io/_pages/about
   - title: "Contact"
     url: https://prorelsim.github.io/_pages/contact
