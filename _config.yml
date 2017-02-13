@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Promotion & Relegation Sdavdvsadavsvd  imulation."
+title                    : "Promotion & Relegation Simulation."
 title_separator          : "-"
-name                     : "Promotion & Relegatdsfasfion Simulation"
-description              : "Developing a computer simulsdfasdfasation of US soccer with a promotion & relegation pyramid structure."
+name                     : "Promotion & Relegation Simulation"
+description              : "Developing a computer simulation of US soccer with a promotion & relegation pyramid structure."
 url                      : "https://prorelsim.github.io"
 baseurl                  : #
 repository               : "prorelsim/prorelsim.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "ProR el S im "
+  username               : "ProRelSim"
 facebook:
   username               :
   app_id                 :
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "P roR elS im"
+  name             : "ProRelSim"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Promotion & Relegasafd sasdasdtions Simulation For US Soccer."
+  bio              : "Promotion & Relegation Simulation For US Soccer."
   location         : "London, UK"
   email            :
   uri              :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "Pro Re lSim"
+  twitter          : "ProRelSim"
   vine             :
   weibo            :
   xing             :
