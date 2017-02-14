@@ -8,3 +8,23 @@ main:
     url: https://prorelsim.github.io/_pages/about
   - title: "Contact"
     url: https://prorelsim.github.io/_pages/contact
+    
+guide:
+- title: Finances
+  children:
+   - title: "Blog"
+    url: https://prorelsim.github.io/_pages/blog
+  - title: "About"
+    url: https://prorelsim.github.io/_pages/about
+  - title: "Contact"
+    url: https://prorelsim.github.io/_pages/contact
+    
+- title: Divisions
+  children:
+   - title: "Blog"
+    url: https://prorelsim.github.io/_pages/blog
+  - title: "About"
+    url: https://prorelsim.github.io/_pages/about
+  - title: "Contact"
+    url: https://prorelsim.github.io/_pages/contact
+
