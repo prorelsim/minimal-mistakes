@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+breadcrumbs: true
 ---
 
 This project aims to create a statistical model of a US soccer promotion & relegation pyramid structure. 
