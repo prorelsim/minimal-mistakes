@@ -2,7 +2,6 @@
 layout: single
 author_profile: false
 breadcrumbs: true
-permalink: /:categories/:title/
 sidebar:
    nav: guide
 ---
