@@ -1,8 +1,8 @@
 ---
 layout: single
+author_profile: false
 sidebar:
    nav: guide
-author_profile: true
 ---
 Promotion & Relegation Simulation For US Soccer.
 
