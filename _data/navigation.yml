@@ -12,19 +12,33 @@ main:
 guide:
 - title: Finances
   children:
-    - title: "Blog"
-      url: https://prorelsim.github.io/_pages/blog
     - title: "About"
       url: https://prorelsim.github.io/_pages/about
-    - title: "Contact"
-      url: https://prorelsim.github.io/_pages/contact
+    - title: "How It Works"
+      url: https://prorelsim.github.io/_pages/how_it_works
+    - title: "Assumptions"
+      url: https://prorelsim.github.io/_pages/assumptions
+    - title: "League Structure"
+      url: https://prorelsim.github.io/_pages/league_structure
+    - title: "Club"
+      url: https://prorelsim.github.io/_pages/club
+    - title: "Player"
+      url: https://prorelsim.github.io/_pages/player
+    - title: "Club Strategies"
+      url: https://prorelsim.github.io/_pages/club_strategies
+    - title: "Transfer Market"
+      url: https://prorelsim.github.io/_pages/transfer_market
+    - title: "Travel Costs"
+      url: https://prorelsim.github.io/_pages/travel_costs
+    - title: "Travel Distances"
+      url: https://prorelsim.github.io/_pages/travel_distances
+    - title: "Glossary"
+      url: https://prorelsim.github.io/_pages/glossary
+    - title: "Bankruptcy"
+      url: https://prorelsim.github.io/_pages/bankruptcy
     
-- title: Divisions
+- title: Info
   children:
-    - title: "Blog"
-      url: https://prorelsim.github.io/_pages/blog
-    - title: "About"
-      url: https://prorelsim.github.io/_pages/about
     - title: "Contact"
       url: https://prorelsim.github.io/_pages/contact
 
