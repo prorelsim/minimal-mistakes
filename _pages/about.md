@@ -8,7 +8,7 @@ sidebar:
 
 ## [](#header-2)About
 ### [](#header-3)What Is ProRelSim?
-ProRelSim stands for Promotion_and Relegation Simulation. This project aims to create a statistical model of a US soccer promotion & relegation pyramid structure. Showing how it would look and what effects it may have clubs.
+ProRelSim stands for Promotion and Relegation Simulation. This project aims to create a statistical model of a US soccer promotion & relegation pyramid structure. Showing how it would look and what effects it may have clubs.
 
 ### [](#header-3)What Is Promotion & Relegation?
 *Promotion and relegation is a process where teams are transferred between two divisions based on their performance for the completed season. The best-ranked team(s) in the lower division are promoted to the higher division for the next season, and the worst-ranked team(s) in the higher division are relegated to the lower division for the next season.* [read more here...](https://en.wikipedia.org/wiki/Promotion_and_relegation)

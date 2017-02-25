@@ -1,19 +1,10 @@
 # main links
 main:
-  - title: "Blog"
-    url: https://prorelsim.github.io/_pages/blog
+  - title: "Guide"
+    url: https://prorelsim.github.io/_pages/about
     
 guide:
-- title: Info
-  children:
-    - title: "Blog"
-      url: https://prorelsim.github.io/_pages/blog
-    - title: "About"
-      url: https://prorelsim.github.io/_pages/about
-    - title: "Contact"
-      url: https://prorelsim.github.io/_pages/contact
-    
-- title: Index
+- title: Guide
   children:
     - title: "How It Works"
       url: https://prorelsim.github.io/_pages/how_it_works
@@ -39,4 +30,11 @@ guide:
       url: https://prorelsim.github.io/_pages/how_you_can_help
     - title: "Glossary"
       url: https://prorelsim.github.io/_pages/glossary
+      
+- title: Info
+  children:
+    - title: "About"
+      url: https://prorelsim.github.io/_pages/about
+    - title: "Contact"
+      url: https://prorelsim.github.io/_pages/contact
 
