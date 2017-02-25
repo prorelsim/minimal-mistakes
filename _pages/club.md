@@ -6,7 +6,8 @@ sidebar:
    nav: guide
 ---
 
-Club will be up of these four parts.
+## [](#header-2)Club
+A club (soccer club) will be made up of these four parts.
 
 ### [](#header-3)Owners
 *   company/s

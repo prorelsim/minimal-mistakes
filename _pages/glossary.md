@@ -5,6 +5,7 @@ breadcrumbs: true
 sidebar:
    nav: guide
 ---
+
 ## [](#header-2)Glossary 
 
 ### [](#header-3)Club

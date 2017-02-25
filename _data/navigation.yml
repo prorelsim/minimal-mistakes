@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Blog"
     url: https://prorelsim.github.io/_pages/blog
   - title: "About"
@@ -10,10 +8,8 @@ main:
     url: https://prorelsim.github.io/_pages/contact
     
 guide:
-- title: Finances
+- title: Index
   children:
-    - title: "About"
-      url: https://prorelsim.github.io/_pages/about
     - title: "How It Works"
       url: https://prorelsim.github.io/_pages/how_it_works
     - title: "Assumptions"
@@ -34,11 +30,8 @@ guide:
       url: https://prorelsim.github.io/_pages/travel_distances
     - title: "Bankruptcy"
       url: https://prorelsim.github.io/_pages/bankruptcy
+    - title: "How You Can Help"
+      url: https://prorelsim.github.io/_pages/how_you_can_help
     - title: "Glossary"
       url: https://prorelsim.github.io/_pages/glossary
-    
-- title: Info
-  children:
-    - title: "Contact"
-      url: https://prorelsim.github.io/_pages/contact
 

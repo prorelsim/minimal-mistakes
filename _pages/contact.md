@@ -6,6 +6,8 @@ sidebar:
    nav: guide
 ---
 
+## [](#header-2)Contact
+
 ### [](#header-3)Email
 prorelsim at gmail dot com (replace at and dot with @ and .)
 

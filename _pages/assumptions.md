@@ -6,7 +6,7 @@ sidebar:
    nav: guide
 ---
 
-### [](#header-3)Assumptions
+## [](#header-2)Assumptions
 *   that soccer can be the number one sport in the US.
 *   that soccer could compete with other sports for talented athletes.
 *   there are sponsors who wish to be involved in soccer
