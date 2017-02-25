@@ -7,7 +7,6 @@ sidebar:
 ---
 
 ## [](#header-2)How you can help?
-
 If you have information on national, state or local level soccer in the US, please get in touch. The simulation will be continually refined and updated to make it as accurate as possible.
 Here are the types of data needed...
 

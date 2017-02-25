@@ -7,7 +7,6 @@ sidebar:
 ---
 
 ## [](#header-2)Glossary 
-
 ### [](#header-3)Club
 One or more soccer teams all with the same facilities, stadium, owner, coaching staff and supporters.
 

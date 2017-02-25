@@ -7,7 +7,6 @@ sidebar:
 ---
 
 ## [](#header-2)League structure
-
 ### [](#header-3)Overview
 *   semi-pro and amateur leagues organised on a regional basis.
 *   one or more state wide professional leagues

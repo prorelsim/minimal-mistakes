@@ -7,8 +7,6 @@ sidebar:
 ---
 
 ## [](#header-2)Player
-
-
 ### [](#header-3)Player Contracts
 In a promotion & relegation system, a player's contract is very important. As the biggest financial cost a club will have, other than player transfer fee, it can literally make or break a club.
 
