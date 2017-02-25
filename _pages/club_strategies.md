@@ -6,6 +6,7 @@ sidebar:
    nav: guide
 ---
 
+Clubs will have a strategy to achieve their goals. In the simualtion they will have one or a combination of the following...
 
 ### [](#header-3)Develop Youth Players
 Club invests in it coaching and youth setup so it can develop players good enough for the first team. Pros are there will be little to no transfer fees involved, wages for developed players will be lower and transfer fees from selling these players will be mostly profit. Cons are that it will take time to setup and produce good enough players and the first team may suffer if players developed are below the level they need to be during that time. Coaches could leave. Good youth players could sign contracts else where.
