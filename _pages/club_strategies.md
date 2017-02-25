@@ -5,7 +5,6 @@ breadcrumbs: true
 sidebar:
    nav: guide
 ---
-
 ## [](#header-2)Club Strategy
 Clubs will have a strategy to achieve their goals. In the simualtion they will have one or a combination of the following...
 

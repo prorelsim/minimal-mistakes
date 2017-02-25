@@ -5,9 +5,7 @@ breadcrumbs: true
 sidebar:
    nav: guide
 ---
-
 ## [](#header-2)How It Works
-
 Clubs will be able to perform these actions...
 *   invest/buy/setup a soccer club. 
 *   hire/buy/build a stadium, training facility, administrative headquarters and a youth setup. 

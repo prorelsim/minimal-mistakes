@@ -2,12 +2,17 @@
 main:
   - title: "Blog"
     url: https://prorelsim.github.io/_pages/blog
-  - title: "About"
-    url: https://prorelsim.github.io/_pages/about
-  - title: "Contact"
-    url: https://prorelsim.github.io/_pages/contact
     
 guide:
+- title: Info
+  children:
+    - title: "Blog"
+      url: https://prorelsim.github.io/_pages/blog
+    - title: "About"
+      url: https://prorelsim.github.io/_pages/about
+    - title: "Contact"
+      url: https://prorelsim.github.io/_pages/contact
+    
 - title: Index
   children:
     - title: "How It Works"
