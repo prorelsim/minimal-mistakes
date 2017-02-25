@@ -32,10 +32,10 @@ guide:
       url: https://prorelsim.github.io/_pages/travel_costs
     - title: "Travel Distances"
       url: https://prorelsim.github.io/_pages/travel_distances
-    - title: "Glossary"
-      url: https://prorelsim.github.io/_pages/glossary
     - title: "Bankruptcy"
       url: https://prorelsim.github.io/_pages/bankruptcy
+    - title: "Glossary"
+      url: https://prorelsim.github.io/_pages/glossary
     
 - title: Info
   children:
