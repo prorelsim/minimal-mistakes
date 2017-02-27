@@ -80,8 +80,8 @@ author:
   name             : "ProRelSim"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Promotion & Relegation Simulation For US Soccer."
-  location         : "London, UK"
-  email            :
+  location         : 
+  email            : "prorelsim@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
